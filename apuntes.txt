@@ -1,0 +1,6 @@
+
+Eslint
+	Para ver los errores de un archivo (nos metemos en la carpeta donde se encuentra el archivo)
+		-- npx eslint nombre-del-archivo
+	Para que arregle los fallos automaticamente
+		-- npx eslint nombre-del-archivo --fix
